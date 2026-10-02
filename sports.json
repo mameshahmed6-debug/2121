@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "basketball",
+    "image": "basketball.jpg",
+    "title": "BASKETBALL",
+    "keywords": "DRIBBLING • SPRUNG • PRAEZISION"
+  },
+  {
+    "slug": "schwimmen",
+    "image": "swimming.webp",
+    "title": "SCHWIMMEN",
+    "keywords": "TECHNIK • AUSDAUER • ATMUNG"
+  },
+  {
+    "slug": "fussball",
+    "image": "football.jpg",
+    "title": "FUSSBALL",
+    "keywords": "BALLKONTROLLE • PASS • SPRINT"
+  },
+  {
+    "slug": "laufen",
+    "image": "running.jpg",
+    "title": "LAUFEN",
+    "keywords": "START • TEMPO • AUSDAUER"
+  },
+  {
+    "slug": "tennis",
+    "image": "tennis.jpg",
+    "title": "TENNIS",
+    "keywords": "AUFSCHLAG • FUSSARBEIT • REAKTION"
+  },
+  {
+    "slug": "radfahren",
+    "image": "cycling.jpg",
+    "title": "RADFAHREN",
+    "keywords": "TRITT • BALANCE • AUSDAUER"
+  },
+  {
+    "slug": "volleyball",
+    "image": "volleyball.jpg",
+    "title": "VOLLEYBALL",
+    "keywords": "BAGGERN • SPRUNG • AUFSCHLAG"
+  },
+  {
+    "slug": "boxen",
+    "image": "boxing.svg",
+    "title": "BOXEN",
+    "keywords": "FUSSARBEIT • DECKUNG • TECHNIK"
+  },
+  {
+    "slug": "handball",
+    "image": "handball.svg",
+    "title": "HANDBALL",
+    "keywords": "PASS • WURF • BEWEGUNG"
+  },
+  {
+    "slug": "turnen",
+    "image": "gymnastics.svg",
+    "title": "TURNEN",
+    "keywords": "BALANCE • KRAFT • KOORDINATION"
+  },
+  {
+    "slug": "tischtennis",
+    "image": "table-tennis.svg",
+    "title": "TISCHTENNIS",
+    "keywords": "REAKTION • SCHLAG • PLATZIERUNG"
+  },
+  {
+    "slug": "leichtathletik",
+    "image": "athletics.svg",
+    "title": "LEICHTATHLETIK",
+    "keywords": "SPRINT • SPRUNG • WURF"
+  }
+]
